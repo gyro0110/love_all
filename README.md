@@ -1,2 +1,3 @@
 # love_all
-It starts here!
+hi peeps!
+This is me, gyro. 
